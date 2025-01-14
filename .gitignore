@@ -1,0 +1,6 @@
+*.c
+*.pyd
+/__pycache__
+/build
+/input
+/output
